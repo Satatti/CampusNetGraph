@@ -1,12 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CampusNetGraph.Model
+﻿namespace CampusNetGraph.Model
 {
-    internal class Vertex
+    public class Vertex
     {
+        public string Id { get; set; }
+
+        public string Nombre { get; set; }
+
+        public string Rol { get; set; }
+
+        public Vertex(string id, string nombre, string rol)
+        {
+            Id = id;
+            Nombre = nombre;
+            Rol = rol;
+        }
     }
 }
