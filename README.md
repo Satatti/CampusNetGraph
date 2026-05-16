@@ -1,10 +1,10 @@
 # CampusNetGraph
 
-Proyecto desarrollado en C# utilizando arquitectura MVC y grafos dirigidos.
+Taller 2 de Programacion 3 de la Universidad de Manizales, desarrollado en C# utilizando arquitectura MVC y grafos dirigidos.
 
 ## Integrante
 
-- Santiago Valencia
+- Santiago Valencia Diaz
 
 ## Responsabilidades
 
